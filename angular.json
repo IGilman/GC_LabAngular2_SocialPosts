@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-lab2-socialposts"
+    }
+  },
+  "defaultProject": "angular-lab2-socialposts",
+  "cli": {
+    "analytics": "1ff9a183-58df-414c-a450-ca0038104e2c"
+  }
 }

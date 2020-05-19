@@ -1,0 +1,20 @@
+.form-container{
+    /* height: 100vh;
+    background-color: rgba(0,0,0,0.6);
+    position: fixed;
+    top: 0;
+    right:0;
+    width: 100%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form{
+    background-color: #B1DDEA;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 5px;
+}

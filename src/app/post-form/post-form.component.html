@@ -1,0 +1,9 @@
+<div class="form-container">
+    <form class="form" #submitForm="ngForm" (ngSubmit)="submitPost(submitForm)">
+        <label for="title">Title</label>
+        <input type="text" name="title" id="title" ngModel>
+        <label for="thought">Thought</label>
+        <input type="text" name="thought" id="thought" ngModel>
+        <button>Submit</button>
+    </form>
+</div>
